@@ -7,4 +7,3 @@ function calculateResult() {
         document.getElementById('expression').value = '';
     }
 }
-        
